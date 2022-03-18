@@ -1,0 +1,12 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+override_dh_auto_clean:
+	ischroot && make clean || make distclean
+	ischroot || make vendor
+
+override_dh_strip:
+
+override_dh_strip_nondeterminism:

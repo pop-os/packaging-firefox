@@ -1,0 +1,15 @@
+Source: firefox
+Section: web
+Priority: optional
+Maintainer: Jeremy Soller <jeremy@system76.com>
+Standards-Version: 4.1.1
+Homepage: https://github.com/pop-os/packaging-firefox
+Build-Depends:
+  ca-certificates,
+  curl,
+  debhelper-compat (= 10)
+
+Package: firefox
+Architecture: amd64
+Description: Mozilla Firefox
+Depends: ${shlibs:Depends}

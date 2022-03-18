@@ -1,0 +1,6 @@
+/debian/*.substvars
+/debian/.debhelper
+/debian/debhelper-*
+/debian/files
+/debian/firefox
+/vendor*
