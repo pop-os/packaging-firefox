@@ -36,7 +36,7 @@ vendor:
 	ls -1 langpacks | while read pkg_lang; do \
 		cat "langpacks/$${pkg_lang}" | while read xpi_lang; do \
 			curl \
-				-o "$@.partial/$${xpi_lang}.xpi" \
+				-o "$@.partial/langpack-$${xpi_lang}@firefox.mozilla.org.xpi" \
 				"$(URL)/xpi/$${xpi_lang}.xpi"; \
 		done \
 	done

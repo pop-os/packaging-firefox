@@ -39,8 +39,8 @@ EOF
     cat "langpacks/${pkg_lang}" | while read xpi_lang
     do
         echo \
-            "vendor/${xpi_lang}.xpi" \
-            "usr/lib/firefox-addons/extensions/langpack-${xpi_lang}@firefox.mozilla.org.xpi" \
+            "vendor/langpack-${xpi_lang}@firefox.mozilla.org.xpi" \
+            "usr/lib/firefox/distribution/extensions" \
             >> "debian/firefox-locale-${pkg_lang}.install"
     done
 done
