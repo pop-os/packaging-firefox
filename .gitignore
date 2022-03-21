@@ -1,6 +1,9 @@
+/*.partial
 /debian/*.substvars
 /debian/.debhelper
 /debian/debhelper-*
 /debian/files
-/debian/firefox
-/vendor*
+/debian/firefox/
+/debian/firefox-locale-*/
+/debian/tmp/
+/vendor
