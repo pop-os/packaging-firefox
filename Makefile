@@ -23,6 +23,7 @@ install:
 		--one-top-level="$(DESTDIR)/usr/lib/firefox" \
 		--strip-components=1 \
 		--verbose
+	install -Dm0644 default-prefs.js $(DESTDIR)/usr/lib/firefox/defaults/pref/default-prefs.js
 
 vendor:
 	rm -rf "$@.partial" "$@"
