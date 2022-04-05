@@ -24,6 +24,7 @@ install:
 		--strip-components=1 \
 		--verbose
 	install -Dm0644 default-prefs.js $(DESTDIR)/usr/lib/firefox/defaults/pref/default-prefs.js
+	install -Dm0644 policies.json $(DESTDIR)/usr/lib/firefox/distribution/policies.json
 
 vendor:
 	rm -rf "$@.partial" "$@"
