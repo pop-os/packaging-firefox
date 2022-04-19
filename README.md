@@ -1,3 +1,3 @@
 # Firefox Packaging
 
-WIP
+Packaging for https://www.mozilla.org/en-US/firefox/new/
