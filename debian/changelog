@@ -1,3 +1,9 @@
+firefox (104.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/104.0/releasenotes/
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 26 Jul 2022 18:30:00 +0000
+
 firefox (103.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/103.0/releasenotes/
