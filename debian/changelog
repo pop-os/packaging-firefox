@@ -1,3 +1,9 @@
+firefox (104.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/104.0/releasenotes/
+
+ -- Salil Mishra <salildotexe@gmail.com>  Fri, 26 Aug 2022 18:30:00 +0000
+
 firefox (103.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/103.0/releasenotes/
