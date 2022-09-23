@@ -1,3 +1,9 @@
+firefox (105.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/105.0.1/releasenotes/
+
+ -- Jeremy Soller <jeremy@system76.com>  Fri, 23 Sep 2022 09:11:59 -0600
+
 firefox (105.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/105.0/releasenotes/
