@@ -1,3 +1,9 @@
+firefox (107.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/107.0/releasenotes/
+
+ -- Jacob Kauffmann <jacob@system76.com>  Wed, 16 Nov 2022 13:49:52 -0700
+
 firefox (106.0.3) jammy; urgency=medium
 
   * https://www.mozilla.org/firefox/106.0.3/releasenotes/
