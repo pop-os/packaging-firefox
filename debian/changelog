@@ -1,3 +1,9 @@
+firefox (108.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/108.0/releasenotes/
+
+ -- Jeremy Soller <jeremy@system76.com>  Tue, 13 Dec 2022 08:32:19 -0700
+
 firefox (107.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/107.0/releasenotes/

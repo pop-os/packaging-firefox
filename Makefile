@@ -1,6 +1,6 @@
 # Manual variables
-VERSION = "107.0"
-SHASUM  = "6eff8b2938267bb0dc4018012764c19d25d36c2d2709582ae225a2db228c0472"
+VERSION = "108.0"
+SHASUM  = "4b87f3a9eb03efeb9b228f07eb8c2131fbe43979f7d72eb499c669249df7b420"
 
 # Automatic variables
 ARCH    = "$(shell uname -m)"
