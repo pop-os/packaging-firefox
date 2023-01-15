@@ -1,3 +1,9 @@
+firefox (108.0.2) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/108.0.2/releasenotes/
+
+ -- Brock Szuszczewicz <brock@szu.email>  Sun, 15 Jan 2023 15:40:15 -0700
+
 firefox (108.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/108.0/releasenotes/
