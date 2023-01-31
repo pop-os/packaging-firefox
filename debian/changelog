@@ -1,3 +1,9 @@
+firefox (109.0.1) jammy; urgency=medium
+
+  * https://mozilla.org/en-US/firefox/109.0.1/releasenotes/
+
+ -- Mayur Shankar <sc21ms@leeds.ac.uk>  Tue, 31 Jan 2023 16:06:38 +0000
+
 firefox (109.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/109.0/releasenotes/
