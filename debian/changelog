@@ -1,3 +1,10 @@
+firefox (110.0.1) jammy; urgency=medium
+
+  [ Randall White ]
+  * https://www.mozilla.org/en-US/firefox/110.0.1/releasenotes/
+
+ -- n3m0 <n3m0@pop-os.localdomain>  Tue, 28 Feb 2023 15:15:13 -0700
+
 firefox (110.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/110.0/releasenotes/
