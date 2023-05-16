@@ -1,3 +1,9 @@
+firefox (113.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/113.0.1/releasenotes/
+
+ -- Jacob Kauffmann <jacob@system76.com>  Fri, 12 May 2023 15:50:04 -0600
+
 firefox (113.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/113.0/releasenotes/
