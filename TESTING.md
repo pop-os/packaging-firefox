@@ -1,10 +1,10 @@
 # TESTING
 
-This provides a guidliine for testing new releases of Firefox
+This provides a guideline for testing new releases of Firefox
 
 ### Checklist
 
- - [ ] All listed bug fixes for the new release affecting linux are working correctly
+ - [ ] All listed bug fixes for the new release affecting Linux are working correctly
  - [ ] Setting > General > Firefox Updates set to Updates disabled by your administrator
  - [ ] Setting > Home > Firefox Home Content > Reommended by Pocket unchecked by default
  - [ ] Sync is working
