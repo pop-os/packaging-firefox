@@ -1,3 +1,9 @@
+firefox (114.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/114.0.1/releasenotes/
+
+ -- Randall White  <randall@system76.com>  Fri, 09 Jun 2023 09:11:58 -0600
+
 firefox (114.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/114.0/releasenotes/
