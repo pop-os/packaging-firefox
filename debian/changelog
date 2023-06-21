@@ -1,3 +1,9 @@
+firefox (114.0.2) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/114.0.2/releasenotes/
+
+ -- Jacob Kauffmann <jacob@system76.com>  Wed, 21 Jun 2023 14:48:49 -0600
+
 firefox (114.0.1) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/114.0.1/releasenotes/
