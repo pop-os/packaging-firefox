@@ -1,3 +1,10 @@
+firefox (115.0ubuntu1) UNRELEASED; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/115.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/a8863781080622b6a7ee902a464d1bbdf065341e
+
+ -- Jacob Kauffmann <jacob@serw12>  Fri, 07 Jul 2023 09:37:50 -0600
+
 firefox (115.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/115.0/releasenotes/
