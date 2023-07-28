@@ -1,3 +1,10 @@
+firefox (115.0.3) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/115.0.3/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/326212e7271a9c9f0776153095cf48d7153260aa
+
+ -- Jacob Kauffmann <jacob@system76.com>  Fri, 28 Jul 2023 09:14:08 -0600
+
 firefox (115.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/115.0/releasenotes/
