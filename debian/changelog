@@ -1,3 +1,9 @@
+firefox (1:116.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/116.0/releasenotes/
+
+ -- Levi Portenier <levi@system76.com>  Tue, 01 Aug 2023 09:08:10 -0600
+
 firefox (115.0.3) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/115.0.3/releasenotes/
