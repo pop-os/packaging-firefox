@@ -1,3 +1,10 @@
+firefox (1:116.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/116.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/cf44e1e4e71d46b91493513540e35459a8063d29
+
+ -- Jacob Kauffmann <jacob@system76.com>  Fri, 04 Aug 2023 14:51:33 -0600
+
 firefox (1:116.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/116.0/releasenotes/
