@@ -1,3 +1,10 @@
+firefox (1:119.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/119.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/b8f0d32ac6a5c34db8692ed382c3018e6309ea09
+
+ -- Levi Portenier <levi@system76.com>  Tue, 07 Nov 2023 09:00:24 -0700
+
 firefox (1:119.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/119.0/releasenotes/
