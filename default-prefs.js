@@ -3,3 +3,4 @@
 
 pref("app.update.auto", false, locked);
 pref("app.update.enabled", false, locked);
+pref("dom.ipc.forkserver.enable", true);
