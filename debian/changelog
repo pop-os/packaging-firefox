@@ -1,3 +1,9 @@
+firefox (1:123.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/123.0/releasenotes/
+
+ -- Levi Portenier <levi@system76.com>  Tue, 20 Feb 2024 08:17:24 -0700
+
 firefox (1:122.0.1) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/122.0.1/releasenotes/
