@@ -1,3 +1,10 @@
+firefox (1:126.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/126.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/6c033deedc28e5dadb0b99de7336cb6ebb336631
+
+ -- Levi Portenier <levi@system76.com>  Tue, 28 May 2024 08:56:30 -0600
+
 firefox (1:126.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/126.0/releasenotes/
