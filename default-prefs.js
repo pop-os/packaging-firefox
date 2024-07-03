@@ -4,3 +4,6 @@
 pref("app.update.auto", false, locked);
 pref("app.update.enabled", false, locked);
 pref("dom.ipc.forkserver.enable", true);
+
+// This setting allows the desktop environment to define its own file picker
+pref("widget.use-xdg-desktop-portal.file-picker", 1);
