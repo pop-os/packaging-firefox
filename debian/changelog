@@ -1,3 +1,10 @@
+firefox (1:128.0.2) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/128.0.2/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/43bc5d46c2c03cc72e8e36dd8990c0dd339c77cc
+
+ -- Levi Portenier <levi@system76.com>  Tue, 23 Jul 2024 09:38:37 -0600
+
 firefox (1:128.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/128.0/releasenotes/
