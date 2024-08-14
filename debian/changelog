@@ -1,3 +1,10 @@
+firefox (1:129.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/129.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/9a56b747aa5f53cb8784337f8c5d6a056d11c5e7
+
+ -- Levi Portenier <levi@system76.com>  Wed, 14 Aug 2024 06:56:18 -0600
+
 firefox (1:129.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/129.0/releasenotes/
