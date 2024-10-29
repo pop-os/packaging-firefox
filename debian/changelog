@@ -1,3 +1,10 @@
+firefox (1:132.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/132.0/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/0e15e2edd460163e40ac3ca3cb29ff48cfbc3967
+
+ -- Levi Portenier <levi@system76.com>  Tue, 29 Oct 2024 09:17:19 -0600
+
 firefox (1:131.0.3) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/131.0.3/releasenotes/
