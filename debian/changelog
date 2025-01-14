@@ -1,3 +1,10 @@
+firefox (1:134.0.1) jammy; urgency=medium
+
+  * https://hg.mozilla.org/releases/mozilla-release/log/497a35d032e41a640590af9ac68d8a6dd21f4131
+  * https://www.mozilla.org/en-US/firefox/134.0.1/releasenotes/
+
+ -- Levi Portenier <levi@system76.com>  Tue, 14 Jan 2025 10:52:17 -0700
+
 firefox (1:134.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/134.0/releasenotes/
