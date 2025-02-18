@@ -1,7 +1,7 @@
 # Automatic variables
-VERSION = "$(shell grep -oP '(?<=firefox-).*(?=.tar.bz)' SHA256SUMS | head -1)"
+VERSION = "$(shell grep -oP '(?<=firefox-).*(?=.tar.xz)' SHA256SUMS | head -1)"
 ARCH    = "$(shell uname -m)"
-TARBALL = "firefox-$(VERSION).tar.bz2"
+TARBALL = "firefox-$(VERSION).tar.xz"
 URL     = "https://download-installer.cdn.mozilla.net/pub/firefox/releases/$(VERSION)/linux-$(ARCH)"
 all:
 	true
@@ -32,7 +32,7 @@ vendor:
 	curl \
 		-o "$@.partial/$(TARBALL)" \
 		"$(URL)/en-US/$(TARBALL)"
-	test "$$(cat SHA256SUMS | grep linux-x86_64/en-US/firefox-$(VERSION).tar.bz | cut -d ' ' -f1)" "=" "$$(sha256sum $@.partial/$(TARBALL) | cut -d' ' -f1)"
+	test "$$(cat SHA256SUMS | grep linux-x86_64/en-US/firefox-$(VERSION).tar.xz | cut -d ' ' -f1)" "=" "$$(sha256sum $@.partial/$(TARBALL) | cut -d' ' -f1)"
 
 	ls -1 langpacks | while read pkg_lang; do \
 		cat "langpacks/$${pkg_lang}" | while read xpi_lang; do \
