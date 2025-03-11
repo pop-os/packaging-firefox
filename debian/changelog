@@ -1,3 +1,10 @@
+firefox (1:136.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/136.0.1/releasenotes/
+  * https://hg.mozilla.org/releases/mozilla-release/log/e7956a4db6c5f551acc3b7c84c99ae8ecaf8e7c6
+
+ -- Levi Portenier <levi@system76.com>  Tue, 11 Mar 2025 10:24:25 -0600
+
 firefox (1:136.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/136.0/releasenotes/
