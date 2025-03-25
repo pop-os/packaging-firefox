@@ -1,3 +1,9 @@
+firefox (1:136.0.3) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/136.0.3/releasenotes/
+
+ -- Jacob Kauffmann <jacob@system76.com>  Tue, 25 Mar 2025 16:04:57 -0600
+
 firefox (1:136.0.2) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/136.0.2/releasenotes/
