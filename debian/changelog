@@ -1,3 +1,10 @@
+firefox (1:139.0) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/139.0/releasenotes/
+  * https://hg-edge.mozilla.org/releases/mozilla-release/log/fee424eb387e19aa0d790146aa267404190389fd
+
+ -- Levi Portenier <levi@system76.com>  Tue, 27 May 2025 08:30:11 -0600
+
 firefox (1:138.0.4) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/138.0.4/releasenotes/
