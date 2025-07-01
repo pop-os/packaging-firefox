@@ -13,204 +13,204 @@ Build-Depends:
   libgtk-3-dev,
 
 Package: firefox
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: ${shlibs:Depends}
 Description: Mozilla Firefox
 
 Package: firefox-locale-af
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-af-base
 Description: Mozilla Firefox language pack for af
 
 Package: firefox-locale-an
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-an-base
 Description: Mozilla Firefox language pack for an
 
 Package: firefox-locale-ar
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-ar-base
 Description: Mozilla Firefox language pack for ar
 
 Package: firefox-locale-ast
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-ast-base
 Description: Mozilla Firefox language pack for ast
 
 Package: firefox-locale-az
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-az-base
 Description: Mozilla Firefox language pack for az
 
 Package: firefox-locale-be
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-be-base
 Description: Mozilla Firefox language pack for be
 
 Package: firefox-locale-bg
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-bg-base
 Description: Mozilla Firefox language pack for bg
 
 Package: firefox-locale-bn
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-bn-base
 Description: Mozilla Firefox language pack for bn
 
 Package: firefox-locale-br
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-br-base
 Description: Mozilla Firefox language pack for br
 
 Package: firefox-locale-bs
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-bs-base
 Description: Mozilla Firefox language pack for bs
 
 Package: firefox-locale-ca
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-ca-base
 Description: Mozilla Firefox language pack for ca
 
 Package: firefox-locale-cak
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-cak-base
 Description: Mozilla Firefox language pack for cak
 
 Package: firefox-locale-cs
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-cs-base
 Description: Mozilla Firefox language pack for cs
 
 Package: firefox-locale-cy
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-cy-base
 Description: Mozilla Firefox language pack for cy
 
 Package: firefox-locale-da
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-da-base
 Description: Mozilla Firefox language pack for da
 
 Package: firefox-locale-de
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-de-base
 Description: Mozilla Firefox language pack for de
 
 Package: firefox-locale-el
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-el-base
 Description: Mozilla Firefox language pack for el
 
 Package: firefox-locale-en
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-en-base
 Description: Mozilla Firefox language pack for en
 
 Package: firefox-locale-eo
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-eo-base
 Description: Mozilla Firefox language pack for eo
 
 Package: firefox-locale-es
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-es-base
 Description: Mozilla Firefox language pack for es
 
 Package: firefox-locale-et
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-et-base
 Description: Mozilla Firefox language pack for et
 
 Package: firefox-locale-eu
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-eu-base
 Description: Mozilla Firefox language pack for eu
 
 Package: firefox-locale-fa
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-fa-base
 Description: Mozilla Firefox language pack for fa
 
 Package: firefox-locale-fi
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-fi-base
 Description: Mozilla Firefox language pack for fi
 
 Package: firefox-locale-fr
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-fr-base
 Description: Mozilla Firefox language pack for fr
 
 Package: firefox-locale-fy
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-fy-base
 Description: Mozilla Firefox language pack for fy
 
 Package: firefox-locale-ga
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-ga-base
 Description: Mozilla Firefox language pack for ga
 
 Package: firefox-locale-gd
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-gd-base
 Description: Mozilla Firefox language pack for gd
 
 Package: firefox-locale-gl
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-gl-base
 Description: Mozilla Firefox language pack for gl
 
 Package: firefox-locale-gn
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-gn-base
 Description: Mozilla Firefox language pack for gn
 
 Package: firefox-locale-gu
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-gu-base
 Description: Mozilla Firefox language pack for gu
 
 Package: firefox-locale-he
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-he-base
 Description: Mozilla Firefox language pack for he
 
 Package: firefox-locale-hi
-Architecture: amd64
+Architecture: amd64 arm64
 Depends: firefox (= ${binary:Version})
 Replaces: language-pack-hi-base
 Description: Mozilla Firefox language pack for hi
