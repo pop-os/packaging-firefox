@@ -1,2 +1,2 @@
-vendor/langpack-ca@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
-vendor/langpack-ca-valencia@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
+usr/lib/firefox/distribution/extensions/langpack-ca@firefox.mozilla.org.xpi
+usr/lib/firefox/distribution/extensions/langpack-ca-valencia@firefox.mozilla.org.xpi
