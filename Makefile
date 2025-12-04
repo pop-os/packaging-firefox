@@ -23,6 +23,10 @@ install:
 	install -Dm0644 default-prefs.js $(DESTDIR)/usr/lib/firefox/defaults/pref/default-prefs.js
 	install -Dm0644 is-packaged-app $(DESTDIR)/usr/lib/firefox/is-packaged-app
 	install -Dm0644 policies.json $(DESTDIR)/usr/lib/firefox/distribution/policies.json
+	for langpack in vendor/linux-$(ARCH)/langpack-*; do \
+		install -Dm0644 $$langpack $(DESTDIR)/usr/lib/firefox/distribution/extensions/$$(basename $$langpack); \
+	done
+
 
 vendor: vendor/linux-x86_64 vendor/linux-aarch64
 
