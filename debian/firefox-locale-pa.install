@@ -1,1 +1,1 @@
-vendor/langpack-pa-IN@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
+vendor/linux-${DEB_HOST_GNU_CPU}/langpack-pa-IN@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
