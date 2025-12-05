@@ -30,7 +30,7 @@ do
     cat >> debian/control <<EOF
 
 Package: firefox-locale-${pkg_lang}
-Architecture: amd64 arm64
+Architecture: amd64
 Depends: firefox (= \${binary:Version})
 Replaces: language-pack-${pkg_lang}-base
 Description: Mozilla Firefox language pack for ${pkg_lang}
@@ -39,7 +39,8 @@ EOF
     cat "langpacks/${pkg_lang}" | while read xpi_lang
     do
         echo \
-            "usr/lib/firefox/distribution/extensions/langpack-${xpi_lang}@firefox.mozilla.org.xpi" \
+            "vendor/langpack-${xpi_lang}@firefox.mozilla.org.xpi" \
+            "usr/lib/firefox/distribution/extensions" \
             >> "debian/firefox-locale-${pkg_lang}.install"
     done
 done

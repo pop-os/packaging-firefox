@@ -1,2 +1,2 @@
-usr/lib/firefox/distribution/extensions/langpack-en-CA@firefox.mozilla.org.xpi
-usr/lib/firefox/distribution/extensions/langpack-en-GB@firefox.mozilla.org.xpi
+vendor/langpack-en-CA@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
+vendor/langpack-en-GB@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
