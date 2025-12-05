@@ -1,1 +1,1 @@
-vendor/langpack-sv-SE@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
+vendor/linux-${DEB_HOST_GNU_CPU}/langpack-sv-SE@firefox.mozilla.org.xpi usr/lib/firefox/distribution/extensions
