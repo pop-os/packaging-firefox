@@ -1,3 +1,10 @@
+firefox (1:147.0.4) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/147.0.4/releasenotes/
+  * https://hg-edge.mozilla.org/releases/mozilla-release/log/fc43c97c72749b9e222d68e0d37e7c696ae933e2
+
+ -- Levi Portenier <levi@system76.com>  Mon, 16 Feb 2026 08:33:46 -0700
+
 firefox (1:147.0.3) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/147.0.3/releasenotes/
