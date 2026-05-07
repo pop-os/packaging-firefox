@@ -1,3 +1,10 @@
+firefox (1:150.0.2) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/150.0.2/releasenotes/
+  * https://hg-edge.mozilla.org/releases/mozilla-release/log/f886be72b68e40ef310bed24350a841eb9ee07e9
+
+ -- Levi Portenier <levi@system76.com>  Thu, 07 May 2026 08:02:26 -0600
+
 firefox (1:150.0.1) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/150.0.1/releasenotes/
