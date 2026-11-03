@@ -1,3 +1,10 @@
+firefox (1:159.0.1) jammy; urgency=medium
+
+  * https://www.mozilla.org/en-US/firefox/159.0.1/releasenotes/
+  * https://hg-edge.mozilla.org/releases/mozilla-release/log/7b34a03a910d0385299f4a9f27aa585a786862d8
+
+ -- Levi Portenier <levi@system76.com>  Tue, 03 Nov 2026 09:12:08 -0700
+
 firefox (1:159.0) jammy; urgency=medium
 
   * https://www.mozilla.org/en-US/firefox/159.0/releasenotes/
